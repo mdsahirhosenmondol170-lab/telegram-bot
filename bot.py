@@ -1,0 +1,5 @@
+{
+  "TOKEN": "7814201774:AAFPHgEKFPnTU5U9dDcV0H0_9sO1P7BfNl4",
+  "OWNER_ID": 5692210187,
+  "BOT_USERNAME": "@PowerPointBreakTimer_bot"
+}
